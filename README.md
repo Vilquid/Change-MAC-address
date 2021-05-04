@@ -2,7 +2,7 @@
 
 This code is used to automatically modify or not its MAC address. Just launch it and you are asked to make a choice. If you want everything to be automatic, then your MAC address will be incremented by 1. On the other hand, if you make the second choice, it will be up to you to enter your own MAC address.
 
-A change of MAC address involves <u>restarting the computer</u>.
+A change of MAC address involves <strong>restarting the computer</strong>.
 
 # Français
 
